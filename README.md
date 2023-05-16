@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Axellu5
+- 👋 Hi, I’m Ovidijus
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning front end web development
 
