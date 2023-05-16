@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @Axellu5
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning full stack web development
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning front end web development
 
 <!---
 Axellu5/Axellu5 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
